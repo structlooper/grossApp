@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b41f7522-48cd-4eaf-a927-5de5cc83b727" name="tbo_live">
+        <fileTransfer rootFolder="/home/uditchauhan/public_html" accessType="SFTP" host="148.66.128.112" port="22" sshConfigId="efa895dd-fefb-4cc8-80de-9da9b700d351" sshConfig="uditchauhan@148.66.128.112:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
